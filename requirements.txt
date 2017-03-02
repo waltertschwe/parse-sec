@@ -2,4 +2,4 @@ requests
 pytest-cov
 beautifulsoup4
 lxml
-mongodb
+pymongo
